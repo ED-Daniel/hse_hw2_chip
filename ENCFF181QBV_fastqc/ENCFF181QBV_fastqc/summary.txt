@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ENCFF181QBV.fastq
+FAIL	Per base sequence quality	ENCFF181QBV.fastq
+FAIL	Per tile sequence quality	ENCFF181QBV.fastq
+PASS	Per sequence quality scores	ENCFF181QBV.fastq
+PASS	Per base sequence content	ENCFF181QBV.fastq
+WARN	Per sequence GC content	ENCFF181QBV.fastq
+PASS	Per base N content	ENCFF181QBV.fastq
+PASS	Sequence Length Distribution	ENCFF181QBV.fastq
+PASS	Sequence Duplication Levels	ENCFF181QBV.fastq
+WARN	Overrepresented sequences	ENCFF181QBV.fastq
+PASS	Adapter Content	ENCFF181QBV.fastq
