@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ENCFF176RJQ.fastq
+FAIL	Per base sequence quality	ENCFF176RJQ.fastq
+PASS	Per tile sequence quality	ENCFF176RJQ.fastq
+PASS	Per sequence quality scores	ENCFF176RJQ.fastq
+PASS	Per base sequence content	ENCFF176RJQ.fastq
+PASS	Per sequence GC content	ENCFF176RJQ.fastq
+PASS	Per base N content	ENCFF176RJQ.fastq
+PASS	Sequence Length Distribution	ENCFF176RJQ.fastq
+PASS	Sequence Duplication Levels	ENCFF176RJQ.fastq
+PASS	Overrepresented sequences	ENCFF176RJQ.fastq
+PASS	Adapter Content	ENCFF176RJQ.fastq
