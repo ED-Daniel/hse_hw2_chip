@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ENCFF388MXW.fastq
+FAIL	Per base sequence quality	ENCFF388MXW.fastq
+PASS	Per tile sequence quality	ENCFF388MXW.fastq
+PASS	Per sequence quality scores	ENCFF388MXW.fastq
+PASS	Per base sequence content	ENCFF388MXW.fastq
+PASS	Per sequence GC content	ENCFF388MXW.fastq
+PASS	Per base N content	ENCFF388MXW.fastq
+PASS	Sequence Length Distribution	ENCFF388MXW.fastq
+PASS	Sequence Duplication Levels	ENCFF388MXW.fastq
+WARN	Overrepresented sequences	ENCFF388MXW.fastq
+PASS	Adapter Content	ENCFF388MXW.fastq
